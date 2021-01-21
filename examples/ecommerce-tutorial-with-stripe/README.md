@@ -1,6 +1,6 @@
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
-  <a href="https://www.gatsbyjs.org">
+  <a href="https://www.gatsbyjs.com">
     <img alt="Gatsby" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="60" />
   </a>
 </p>
@@ -8,7 +8,7 @@
   Gatsby E-Commerce Starter
 </h1>
 
-This is a Gatsby e-commerce example based on https://www.gatsbyjs.org/tutorial/ecommerce-tutorial/
+This is a Gatsby e-commerce example based on https://www.gatsbyjs.com/tutorial/ecommerce-tutorial/
 
 ## Setup
 
